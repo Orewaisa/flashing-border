@@ -1,0 +1,2 @@
+# flashing-border
+Печатный текст
